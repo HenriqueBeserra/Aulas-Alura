@@ -1,0 +1,15 @@
+body {
+    background-color: #cccccc;
+}
+
+p  {
+    text-align: center;
+    
+}
+p#missão {
+    font-size: 20px;
+}
+
+p em strong {
+    color:blueviolet;
+}
