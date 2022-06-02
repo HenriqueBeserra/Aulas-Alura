@@ -1,5 +1,8 @@
 body {
-    background-color: #cccccc;
+    
+}
+h1 {
+    text-align: center;
 }
 
 p  {
@@ -12,4 +15,37 @@ p#missão {
 
 p em strong {
     color:blueviolet;
+}
+
+#baner {
+    width: 100%;
+}
+
+.principal {
+    background-color: #6bb0bbc2;
+    width: 100%;
+    
+}
+
+.itens {
+    font-style: italic;
+}
+h2 {
+    text-align: center;
+}
+ul {
+    display: inline-block;
+    flex-direction: column;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.beneficios {
+    background-color: aliceblue;
+    padding: 20px;
+}
+
+.imgBeneficios {
+    width: 50%;
 }
