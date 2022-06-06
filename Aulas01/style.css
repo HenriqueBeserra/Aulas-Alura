@@ -1,8 +1,12 @@
 body {
     
 }
-h1 {
+.titulo-main {
     text-align: center;
+}
+
+.titulo-head {
+    padding-left: 20px;
 }
 
 p  {
@@ -30,9 +34,7 @@ p em strong {
 .itens {
     font-style: italic;
 }
-h2 {
-    text-align: center;
-}
+
 ul {
     display: inline-block;
     flex-direction: column;
