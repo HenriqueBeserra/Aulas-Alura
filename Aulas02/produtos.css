@@ -1,0 +1,22 @@
+* {
+    text-decoration: none;
+    
+}
+
+header {
+    background-color: rgb(16, 16, 68);
+}
+
+nav li {
+    display: inline;
+    margin: 0 0 0 20px;
+}
+
+nav a {
+    text-transform: uppercase;
+    color: #ffffff;
+    font-weight: bolder;
+    font-size: 22px;
+    text-decoration: none;
+}
+    
