@@ -1,10 +1,18 @@
-* {
-    text-decoration: none;
-    
-}
 
 header {
-    background-color: rgb(16, 16, 68);
+    background-color: rgb(32, 32, 92);
+}
+
+.caixa {
+    width: 940px;
+    position: relative;
+    margin: 0 auto;
+}
+
+nav {
+    position: absolute;
+    top: 110px;
+    right: 0;
 }
 
 nav li {
@@ -19,4 +27,39 @@ nav a {
     font-size: 22px;
     text-decoration: none;
 }
+
+.produtos {
+    width: 940px;
+    margin: 0 auto;
+    padding: 50px 0;
     
+}
+
+.produtos li {
+    display: inline-block;
+    text-align: center;
+    width: 30%;
+    vertical-align: top;
+    box-sizing: border-box;
+    margin: 0 1.5%;
+    padding: 30px 20px;
+    border: 0.5px solid rgb(67, 1, 94);
+    border-top: 5px solid rgb(67, 1, 94);
+    border-radius: 0 0 40px 40px ;
+}
+
+.produtos h2 {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.preço {
+    font-weight: bold;
+    font-size: 18px;
+    margin: 10px 0 0 ;
+}
+
+.produto-descrição {
+    font-size: 18px;
+    font-style: italic;
+}
