@@ -1,6 +1,6 @@
 
 header {
-    background-color: rgb(32, 32, 92);
+    background-color: rgba(46, 46, 48, 0.911);
 }
 
 .caixa {
@@ -57,11 +57,11 @@ nav a:hover {
 }
 
 .produtos li:hover h2 {
-    font-size: 25px;
+    font-size: 20.2px;
 }
 
 .produtos li:hover p{
-    font-size: 24px;
+    font-size: 18.2px;
 }
 
 .produtos li:active {
@@ -69,7 +69,7 @@ nav a:hover {
 }
 
 .produtos h2 {
-    font-size: 20px;
+    font-size: 18.5px;
     font-weight: bold;
 }
 
@@ -82,4 +82,16 @@ nav a:hover {
 .produto-descrição {
     font-size: 18px;
     font-style: italic;
+}
+
+footer {
+    text-align: center;
+    background: url("view/bg.jpg");
+    padding: 40px 0;
+}
+
+footer .copy {
+    color: #ffffff;
+    font-size: 13px;
+    margin: 20px;
 }
