@@ -107,15 +107,40 @@ form {
     
 }
 
-form label {
+form label, form legend {
     display: block;
     font-size: 18px;
     margin: 8px 0 10px;
 }
 
-form input {
+.input-padrão {
     display: block;
     margin: 0 0 20px;
     padding: 10px 25px;
     width: 50%;
+}
+
+.checkbox {
+    margin: 20px 0 ;
+}
+
+.botão-enviar {
+    width: 55%;
+    padding:14px 0;
+    font-size: 18px;
+    background-color: #929c95;
+    color: aliceblue;
+    border: none;
+    transition: 0.8s all;
+    cursor: pointer;
+}
+
+.botão-enviar:hover {
+    background-color: #0c633a;
+    font-size: 18.2px;
+    transform: 10px scale(1.2) ;
+}
+
+.botão-enviar:active {
+    background-color: rgba(9, 12, 173, 0.863);
 }
