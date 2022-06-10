@@ -159,3 +159,17 @@ td, th {
     border: 1px solid rgb(78, 8, 143);
     padding: 5px 10px;
 }
+
+.baner {
+    width: 100%;
+}
+
+.titulo-principal {
+    text-align: center;
+    font-size: 2em;
+    margin: 1em 0;
+}
+
+.principal p {
+    margin: 0 0 1em;
+}
