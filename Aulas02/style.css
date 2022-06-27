@@ -6,6 +6,7 @@ header {
 body {
     background-color: #fefefe;
 }
+
 .caixa {
     width: 940px;
     position: relative;
@@ -187,7 +188,6 @@ td, th {
     font-style: italic;
 }
 
-
 .ultensilios {
     width: 100px;
     float: left;
@@ -207,7 +207,6 @@ td, th {
     width: 20%;
     margin-right: 15%;
 }
-
 
 .beneficios {
     padding: 20px;
@@ -231,6 +230,7 @@ td, th {
 .itens:first-child {
     font-weight: bold;
 }
+
 .main-ul {
     width: 40%;
 }
@@ -238,22 +238,28 @@ td, th {
 .main-ul li{
     padding-bottom: 10px;
 }
+
 .mapa {
     padding: 3em 8px ;
     text-align: center;
 }
+
 .mapa h3 {
     font-size: 2em;
 }
+
 .mapa p {
     margin:  0 0 2em;
 }
+
 .mapa iframe{
     width: 1000px;
 }
+
 .titulo-mapa {
     padding: 20px 0;
 }
+
 .video {
     width: 700px;
     padding: 20% 0;
