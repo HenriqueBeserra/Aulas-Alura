@@ -45,6 +45,9 @@ const playComTeclado = (evento) => {
         playAudio(idAudio);
     }
     
+
+    
+    
   
 } 
     
