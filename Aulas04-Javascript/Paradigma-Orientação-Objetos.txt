@@ -1,0 +1,52 @@
+O paradigma de programação orienada a 
+objetos é composto por 4 pilares
+
+Herança
+Polimorfismo
+Encapsulamento
+Abstração
+
+Este paradigma nos trás um modelo de 
+programação orientada a modelos de objetos
+onde nós criamos um modelo e apartir daquele
+modelo podemos criar novos objetos.
+
+Os modelos podem possuir atribútos e métodos.
+Os atributos tratam das características gerais
+daquele modelo e os métodos são as funções 
+que aquel determinado objeto deverá executar
+
+Ex:
+Podemos ter um modelo de caneta onde temos
+Marca, cor, espessura do bico e se é de tampa 
+ou clicável.
+
+Apartir desse modelo podemos criar qualquer caneta:
+
+--
+Bic, azul, 0.5, de tampa. => isto é um objeto criado
+baseando-se no modelo de Caneta e o primeiro pilar, Herança, onde a nova caneta
+herdou o modelo de caneta.
+
+--
+O Polimorfismo se trata de podermos criar diversos
+objetos apartir do mesmo modelo e podendo rescrever 
+alguns métodos, como:
+Se a caneta é de tampa os métodos são => Tampar e Destampar
+Se a caneta é de click os métodos são => Clicar e Desclicar
+
+Podendo ainda esses métodos serem rescritos para uma nova
+caneta, por exemplo a de girar a parte superior.
+
+--
+O Encapsulamento trata de informações que são
+privadas e só podem ser acessadas por métodos
+que tem permissão.
+
+--
+A Abstração nos diz sobre o modelo da caneta não conter 
+atributos específicos, mas atributos gerais que servirão de
+modelos para objetos específicos.
+
+A abstração também é usada para pensarmos de forma mais econômica
+e organizada.
