@@ -33,3 +33,6 @@ função que é nativa do prototype dos objetos que é :
 Object.keys => Para obter as chaves
 Object.values => Para obter os valores
 Object.entries => Pra obter todos os dados
+
+Object.entries(dadosPessoais)
+
