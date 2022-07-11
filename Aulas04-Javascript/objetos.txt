@@ -1,0 +1,35 @@
+Os objetos assim como os Arrays são ua estrutura de dados 
+dados Javascript que organiza seus dados em uma ordem de 
+chave : valor, facilitando a manipulação e armazenamento 
+de dados que são compostos, ex:
+
+Nome = "Henrique" 
+Toda pessoa tem um nome, logo guardamos esse dado assim
+{
+    Nome: "Henrique"
+}
+
+Podemos acessar os valores do objeto de duas formas
+Notação de ponto ( . ) e notação de chaves ( [] ) 
+
+const dadosPessoais = {
+    Nome: "Henrique",
+    Idade: 22,
+    dataNascimento: "29.10.1999"
+}
+
+Agora para acessar qualquer dado com a notação de ponto:
+
+dadosPessoais.Nome
+dadosPessoais.Idade
+
+Notação DE chaves:
+
+dadosPessoais["Nome"]
+dadosPessoais["Idade"]
+
+Podemos também obter as chaves ou os valores através de uma 
+função que é nativa do prototype dos objetos que é :
+Object.keys => Para obter as chaves
+Object.values => Para obter os valores
+Object.entries => Pra obter todos os dados
