@@ -1,7 +1,7 @@
 # Aulas-Alura
-```
-Pacote de conteúdo das aulas na plataforma da Alura.
-```
+
+### Pacote de conteúdo das aulas na plataforma da Alura.
+
 
 A alura é uma plataforma de ensino que vem se desenvolvendo e criando fortes laços com pessoas que desejam aprender programação.
 
