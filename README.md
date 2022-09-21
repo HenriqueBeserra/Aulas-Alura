@@ -5,9 +5,7 @@
 
 A alura é uma plataforma de ensino que vem se desenvolvendo e criando fortes laços com pessoas que desejam aprender programação.
 
-Eu sou uma dessas pessoas que me interessei pela Alura e descobri a ótima escolha que fiz, conteúdos estruturados e muito consistentes.
-
-Em pouco tempo já consegui ver minha evolução desenvolvendo páginas web e trantando da responsividade com Javascript, sem contar com a integração do backend, banco de dados e a estruturação do projeto.
+Eu sou uma dessas pessoas que me interessei pela Alura e descobri a ótima escolha que fiz, conteúdos estruturados e muito consistentes e em pouco tempo já consegui ver minha evolução desenvolvendo páginas web e trantando da responsividade com Javascript, sem contar com a integração do backend, banco de dados e a estruturação do projeto.
 
 ```
 Este repositório guarda os projetos e anotações feitas durante as aulas.
