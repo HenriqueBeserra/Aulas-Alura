@@ -11,3 +11,6 @@ Em pouco tempo já consegui ver minha evolução desenvolvendo páginas web e tr
 
 
 > Este repositório guarda os projetos e anotações feitas durante as aulas.
+
+
+> <a href="https://github.com/HenriqueBeserra/Aulas-Alura/tree/main/Aulas01">Aulas 01, entendendo html criando as primeiras tags desenvolvendo um site simples</a>
