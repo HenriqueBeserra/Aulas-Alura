@@ -13,6 +13,8 @@ Este repositório guarda os projetos e anotações feitas durante as aulas.
 
 > <a href="https://github.com/HenriqueBeserra/Aulas-Alura/tree/main/Aulas01">Aulas 01, entendendo html criando as primeiras tags desenvolvendo um site simples.</a>
 >
-> <a href="https://github.com/HenriqueBeserra/Aulas-Alura/tree/main/Aulas02">Aulas 02, Integrando novas páginas web ao site e entendendo esttruturas mais complexas do HTML e CSS até o mobile.</a>
+> <a href="https://github.com/HenriqueBeserra/Aulas-Alura/tree/main/Aulas02">Aulas 02, integrando novas páginas web ao site e entendendo esttruturas mais complexas do HTML e CSS até o mobile.</a>
 >
-> <a href="https://github.com/HenriqueBeserra/Aulas-Alura/tree/main/Aulas03-js/aluramidi-curso-arquivos-iniciais">Aulas 03, Manipulando o DOM e arquivos de som na pagina Web.</a>
+> <a href="https://github.com/HenriqueBeserra/Aulas-Alura/tree/main/Aulas03-js/aluramidi-curso-arquivos-iniciais">Aulas 03, manipulando o DOM e arquivos de som na pagina Web.</a>
+>
+> <a href="https://github.com/HenriqueBeserra/Aulas-Alura/tree/main/Aulas04-Javascript">Aulas 03, entendendo e aplicando o conceito de funções, classes e Paradigma de orientação a objetos.</a>
