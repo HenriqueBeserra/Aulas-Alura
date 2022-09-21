@@ -17,4 +17,4 @@ Este repositório guarda os projetos e anotações feitas durante as aulas.
 >
 > <a href="https://github.com/HenriqueBeserra/Aulas-Alura/tree/main/Aulas03-js/aluramidi-curso-arquivos-iniciais">Aulas 03, manipulando o DOM e arquivos de som na pagina Web.</a>
 >
-> <a href="https://github.com/HenriqueBeserra/Aulas-Alura/tree/main/Aulas04-Javascript">Aulas 03, entendendo e aplicando o conceito de funções, classes e Paradigma de orientação a objetos.</a>
+> <a href="https://github.com/HenriqueBeserra/Aulas-Alura/tree/main/Aulas04-Javascript">Aulas 04, entendendo e aplicando o conceito de funções, classes e Paradigma de orientação a objetos.</a>
